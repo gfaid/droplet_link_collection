@@ -15,10 +15,10 @@ function App() {
       <BrowserRouter>
         <Header />
         <Routes>
-          <Route path="/" element={<Main />}></Route>
+          <Route path="*" element={<Main />}></Route>
           <Route path="/mainlink/" element={<MainLinks />}></Route>
           <Route path="/anotherlink/" element={<AnotherLinks />}></Route>
-          <Route path="*" element={<Notfound />}></Route>
+          <Route path="/*/" element={<Notfound />}></Route>
         </Routes>
       </BrowserRouter>
     </div>
