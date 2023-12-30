@@ -1,0 +1,18 @@
+.headDiv {
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+
+    width: 80%;
+    height: 0;
+    padding-bottom: 30%;
+
+    background: url('./happyNewYear.png');
+    background-size: cover;
+    background-position: center;
+
+    border: 10px solid rgba(153, 153, 255, 0.7);
+}
+
+.title {
+    color: #FFF;
+}

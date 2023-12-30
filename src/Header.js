@@ -1,7 +1,9 @@
+import styles from "./Header.module.css";
+
 const Header = () => {
     return(
-        <div>
-            <h1>Droplet Links</h1>
+        <div className={styles.headDiv}>
+            <h1 className={styles.title}>Droplet Links</h1>
         </div>
     )
 }

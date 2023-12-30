@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 import Header from "./Header.js";
 import Main from "./Main.js";
+import Footer from "./Footer.js";
 
 import MainLinks from "./MainLinks.js"
 import AnotherLinks from "./AnotherLinks.js";
@@ -20,6 +21,7 @@ function App() {
           <Route path="/anotherlink/" element={<AnotherLinks />}></Route>
           <Route path="/*/" element={<Notfound />}></Route>
         </Routes>
+        <Footer />
       </BrowserRouter>
     </div>
   );
