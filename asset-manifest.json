@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/droplet_link_collection/static/css/main.bcf40b99.css",
-    "main.js": "/droplet_link_collection/static/js/main.7a3d4dc9.js",
+    "main.css": "/droplet_link_collection/static/css/main.2ad07152.css",
+    "main.js": "/droplet_link_collection/static/js/main.8f6fb787.js",
     "static/js/787.fceae4a8.chunk.js": "/droplet_link_collection/static/js/787.fceae4a8.chunk.js",
+    "static/media/happyNewYear.png": "/droplet_link_collection/static/media/happyNewYear.6e5f241fac932b9014a0.png",
     "index.html": "/droplet_link_collection/index.html",
-    "main.bcf40b99.css.map": "/droplet_link_collection/static/css/main.bcf40b99.css.map",
-    "main.7a3d4dc9.js.map": "/droplet_link_collection/static/js/main.7a3d4dc9.js.map",
+    "main.2ad07152.css.map": "/droplet_link_collection/static/css/main.2ad07152.css.map",
+    "main.8f6fb787.js.map": "/droplet_link_collection/static/js/main.8f6fb787.js.map",
     "787.fceae4a8.chunk.js.map": "/droplet_link_collection/static/js/787.fceae4a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcf40b99.css",
-    "static/js/main.7a3d4dc9.js"
+    "static/css/main.2ad07152.css",
+    "static/js/main.8f6fb787.js"
   ]
 }
